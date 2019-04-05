@@ -5,7 +5,7 @@ import numpy as np
 arr=np.array([1,2,3])
 print("Array with rank 1 : \n",arr)
 
-#Creating a rank 1 Array
+#Creating a rank 2 Array
 arr=np.array([[1,2,3],
              [4,5,6]])
 print("Array with rank 2 : \n",arr)
